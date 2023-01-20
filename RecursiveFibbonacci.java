@@ -33,7 +33,7 @@ public class RecursiveFibbonacci {
 	 * Given the parameter, this method calculate that term in the Fibbonacci sequence recursively.
 	 * @param i An integer value dictating what term of the Fibbonacci sequence will be returned
 	 * @return The ith term of the Fibbonacci sequence
-	 */ 
+	 */
 	public static int calcNum(int i) {
 		// Check for 0 or 1
 		if (i <= 1) {
