@@ -1,4 +1,5 @@
 # cen4802
 Eric Richter
 
-Added JavaDoc comments to RecursiveFibbonacci.
+Added functionality to App
+Added JUnit testing
