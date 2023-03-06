@@ -2,4 +2,5 @@
 Eric Richter
 
 Added functionality to App
+
 Added JUnit testing
